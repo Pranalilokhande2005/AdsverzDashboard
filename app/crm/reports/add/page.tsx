@@ -1,7 +1,7 @@
-export default function AddReportPage() {
+export default function EditReportPage() {
   return (
     <div>
-      Add Report Page
+      Edit Report Page
     </div>
   );
 }
